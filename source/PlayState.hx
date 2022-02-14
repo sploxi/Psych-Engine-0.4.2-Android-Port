@@ -175,7 +175,7 @@ class PlayState extends MusicBeatState
 	var runCutscene:Bool = false;
 
 	var botplaySine:Float = 0;
-	var botplayTxt:FlxText;
+	var botplayTxt:cheater;
 
 	public var iconP1:HealthIcon;
 	public var iconP2:HealthIcon;
